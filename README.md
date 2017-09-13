@@ -1,1 +1,1 @@
-# Belore
+# A simple android app
